@@ -2,6 +2,8 @@
 
 A SwiftUI iOS app that calculates and displays Muslim prayer times based on your current location, with a Home Screen widget for quick glance updates.
 
+<img width="300" style="height: auto;" alt="athansimpledemo1" src="https://github.com/user-attachments/assets/8868afe2-6f88-474d-833e-0ae9bb753bbd" />
+
 ## Features
 
 - Current prayer, next prayer, and time-to-next (countdown/progress)
