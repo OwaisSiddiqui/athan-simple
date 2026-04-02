@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Xcode build outputs / user state
+DerivedData/
+build/
+*.xcarchive/
+*.xcuserstate
+*.xcuserdatad/
+*.xcuserdata/
+*.xcscmblueprint
+*.xcactivitylog
+
+# Xcode project backup files (generated)
+*.pbxproj.backup
+
+# Swift Package Manager build artifacts (if present)
+.build/
+.swiftpm/
+
+# Logs / temp
+*.log
+*.tmp
+
